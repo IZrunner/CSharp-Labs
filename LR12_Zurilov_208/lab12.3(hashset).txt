@@ -1,0 +1,58 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp20
+{
+    class Program
+    {
+        class Steamer
+        {
+            string name;
+            int power;
+            float price;
+
+            public Steamer() { }
+            public Steamer(string name, int power, float price)
+            {
+                this.name = name;
+                this.power = power;
+                this.price = price;
+            }
+
+            public override bool Equals(object obj)
+            {
+                if (!(obj is Steamer))
+                    return false;
+                Steamer s = (Steamer)obj;
+                return name == s.name & power == s.power & price == s.price;
+            }
+            public override int GetHashCode()
+            {
+                return Tuple.Create(power, price).GetHashCode();
+            }
+
+            public override string ToString()
+            {
+                return name + " " + power + " " + price;
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            HashSet<Steamer> h = new HashSet<Steamer>();
+            h.Add(new Steamer("Avrora", 400, 680f));
+            h.Add(new Steamer("Titanic", 840, 9000f));
+            h.Add(new Steamer("Cargo", 1200, 2600f));
+            h.Add(new Steamer("Cargo", 1200, 2600f));
+            foreach (Steamer hValue in h)
+            {
+                Console.WriteLine(hValue);
+            }
+            Console.ReadLine();
+        }
+    }
+}

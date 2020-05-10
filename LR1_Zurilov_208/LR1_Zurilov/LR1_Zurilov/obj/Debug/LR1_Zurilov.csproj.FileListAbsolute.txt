@@ -1,0 +1,7 @@
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\bin\Debug\LR1_Zurilov.exe.config
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\bin\Debug\LR1_Zurilov.exe
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\bin\Debug\LR1_Zurilov.pdb
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\obj\Debug\LR1_Zurilov.csprojAssemblyReference.cache
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\obj\Debug\LR1_Zurilov.csproj.CoreCompileInputs.cache
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\obj\Debug\LR1_Zurilov.exe
+E:\Учёба\1_Программирование\C# & .NET\LR1_Zurilov_208\LR1_Zurilov\LR1_Zurilov\obj\Debug\LR1_Zurilov.pdb

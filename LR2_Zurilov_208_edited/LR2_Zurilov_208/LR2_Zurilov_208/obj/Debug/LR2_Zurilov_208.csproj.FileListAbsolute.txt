@@ -1,0 +1,21 @@
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.exe.config
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.exe
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.pdb
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.csprojAssemblyReference.cache
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.csproj.CoreCompileInputs.cache
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.exe
+E:\Учёба\1_Программирование\C# & .NET\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.pdb
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.exe.config
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.exe
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.pdb
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.csprojAssemblyReference.cache
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.csproj.CoreCompileInputs.cache
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.exe
+C:\Users\1710809\Desktop\LR2_Zurilov_208\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.pdb
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.exe.config
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.exe
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\bin\Debug\LR2_Zurilov_208.pdb
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.csprojAssemblyReference.cache
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.csproj.CoreCompileInputs.cache
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.exe
+C:\Users\1710809\Desktop\LR2_Zurilov_208_complete_task_later\LR2_Zurilov_208\LR2_Zurilov_208\obj\Debug\LR2_Zurilov_208.pdb

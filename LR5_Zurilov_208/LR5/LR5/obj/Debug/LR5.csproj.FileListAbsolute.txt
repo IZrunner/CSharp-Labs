@@ -1,0 +1,7 @@
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\bin\Debug\LR5.exe.config
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\bin\Debug\LR5.exe
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\bin\Debug\LR5.pdb
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\obj\Debug\LR5.csprojAssemblyReference.cache
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\obj\Debug\LR5.exe
+E:\Учёба\1_Программирование\C# & .NET\LR5_Zurilov_208\LR5\LR5\obj\Debug\LR5.pdb
